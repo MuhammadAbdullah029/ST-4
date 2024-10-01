@@ -5,11 +5,11 @@
 }
 @font-face {
     font-family: bold-font;
-    src: url(/public/fonts/Merriweather-Bold.ttf);
+    src: url(/Merriweather-Bold.ttf);
 }
 @font-face {
     font-family: regular-font;
-    src: url(/public/fonts/Merriweather-Regular.ttf);
+    src: url(/Merriweather-Regular.ttf);
 }
 *{
     margin: 0;
